@@ -1,0 +1,266 @@
+.wrapper_foot{
+    display: flex;
+    flex-direction: row;
+    height: 350px;
+    display: flex;
+    width: 1280px;
+    margin: 0 auto;
+    background: url(/img/start-screen-background.jpg), radial-gradient(100% 215.42% at 0% 0%, #5B483A 0%, #262425 100%), #211F20;;
+}
+.foot{
+    color: #ffffff;
+    font-size: 35px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.12rem;
+    margin-top: 58px;
+    margin-left: 42px;
+    line-height: 120%;
+}
+.flex_foot{
+    display: flex;
+    flex-direction:column;
+}
+.flex_1{
+    display: flex;
+}
+.foot_email{
+    margin-top: 42px;
+    margin-left: 40px;
+}
+.foot_email_text{
+    margin-top: 26px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+    color: #f1cdb3;
+}
+.foot_telefon{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.foot_telefon_text{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+    color: #f1cdb3;
+}
+.foot_visit{
+    color: #ffffff;
+    font-size: 35px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.14rem;
+    margin-top: 58px;
+    margin-left: 160px;
+    line-height: 120%;
+}
+.flex_2{
+    display: flex;
+    flex-direction: row;
+}
+.foot_marker{
+    margin-top: 40px;
+    margin-left: 160px;
+}
+.foot_marker_text{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+    color: #f1cdb3;
+}
+.foot_marker_1{
+    margin-top: 15px;
+    margin-left: 160px;
+}
+.foot_marker_text_1{
+    margin-top: px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+    color: #f1cdb3;
+}
+.names{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+}
+.img_puppy{
+    margin-top: 40px;
+    margin-left: 170px;
+}
+.wrapper{
+    display: flex;
+    
+    margin: 0 auto;
+    max-width: 75rem;
+    justify-content: space-between;
+}
+.pets_wrapper{
+    width: 1280px;
+    background-color:#f6f6f6 ;
+    margin-left: -40px;
+    margin-right: -40px;
+    height: 1337px;
+    
+}
+.pets_title{
+    display: flex;
+    flex-direction: row;
+    color:#545454;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    line-height: 140%;
+    
+    font-size: 35px;
+    margin-top:80px;
+    margin-bottom: 20px;
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 0.15rem;
+    line-height: 120%;
+}
+.pets_content{
+    display: flex;
+    justify-content: center;
+    margin-bottom: -10px;
+
+
+}
+.pets_cards{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 45px;
+
+    
+    
+}
+.d{
+    
+    margin:0 20px ;
+    background-color: #fafafa;
+    width: 270px;
+    height: 435px;
+    
+    
+}
+.names{
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+    letter-spacing: 0.08rem;
+}
+.button_more{
+    padding: 12px 45px;
+    margin-top: 42px;
+    width: 185px;
+    border-radius: 100px;
+    border: 3px solid #f1cdb3;
+    background-color: white;
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: Georgia;
+    font-style:normal;
+    font-weight: normal;
+   
+    
+}
+button{
+    border: none;
+    background:none;
+}
+.header{
+    width: 100vw;
+    height: 90px;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.logo{
+    display: flex;
+    flex-direction:column ;
+
+}
+.logo_title{
+    color: #545454;
+    font-family: Georgia;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    line-height: 110%;
+}
+.logo_subtitle{
+    color: #545454;
+    font-size: 0.8125rem;
+    line-height: 110%;
+    letter-spacing: 0.09rem;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.menu{
+    display: flex;
+    width: 443px;
+    margin-top: -30px;
+    
+}
+.list{
+    display: flex;
+    
+    justify-content: space-between;
+    width: 100%;
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+}
+.list_link{
+    font-family: Arial;
+    font-size: 0.9375rem;
+    line-height: 160%;
+    
+}
+.list_link_active{
+    color: #545454;
+    border-bottom: solid 0.1875rem #f1cdb3;
+}
+.list_link_disabled{
+    color:#545454 ;
+}
+.list_item{
+    display: flex;
+    align-items: center;
+}
+.butt{
+    margin: 60px auto 0;
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+.html{
+    width: 1280px;
+}
